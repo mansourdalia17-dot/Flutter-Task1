@@ -24,7 +24,7 @@ class _ChatsScreenState extends State<ChatsScreen> {
       time: "17:20",
     ),
     ChatsModel(
-      image: "https://img.freepik.com/free-photo/vertical-closeup-shot-beautiful-aster-flower-covered-dewdrops_181624-55377.jpg?semt=ais_incoming&w=740&q=80",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNkae13lC2z-6SY82TI3TeaVmY_wEWcEGRhA&s",
       contact: "Ahmad Ahmad",
       lastMessage: "how r u?",
       time: "17:09",
