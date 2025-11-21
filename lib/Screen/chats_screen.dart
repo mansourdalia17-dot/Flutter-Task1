@@ -177,8 +177,8 @@ class _ChatsScreenState extends State<ChatsScreen> {
     return Padding(
     padding: const EdgeInsets.only(left: 100),
     child: Divider(
-    thickness: 0.7,                // سُمك الخط
-    color: Colors.grey.shade300,   // لون فاتح مثل واتساب
+    thickness: 0.7,                
+    color: Colors.grey.shade300,   
     ),
     );
 
