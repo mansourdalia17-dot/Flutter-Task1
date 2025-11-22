@@ -28,6 +28,24 @@ class _CallsScreenState extends State<CallsScreen> {
       status: "missed",
       date: "18/11/2025",
     ),
+    CallsModel(
+      image: "https://img.piri.net/mnresize/900/-/resim/upload/2018/12/13/10/07/67ee2ba7dwxf2x4aeuyv7.jpg",
+      contactName: "Ruba Mohammad",
+      status: "outgoing",
+      date: "10/11/2025",
+    ),
+    CallsModel(
+      image: "https://thumbs.dreamstime.com/b/profile-portrait-cute-adorable-first-grader-girl-school-un-uniform-white-bows-long-hair-raised-head-closed-eyes-128377750.jpg",
+      contactName: "Hadeel Hassan",
+      status: "missed",
+      date: "9/11/2025",
+    ),
+    CallsModel(
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNkae13lC2z-6SY82TI3TeaVmY_wEWcEGRhA&s",
+      contactName: "Ahmad Ahmad",
+      status: "outgoing",
+      date: "7/11/2025",
+    ),
   ];
 
   @override
